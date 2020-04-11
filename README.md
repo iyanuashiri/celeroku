@@ -27,4 +27,10 @@ Push to heroku:
 Now visit the app. It will ask for a username and a password which you defined above.
 
 
+Deploy flower to heroku button.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+
+
 PS: This is a working version/fix/one click deploy to https://github.com/jorilallo/celery-flower-heroku
