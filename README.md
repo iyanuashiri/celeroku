@@ -33,4 +33,4 @@ Deploy flower to heroku button.
 
 
 
-PS: This is a working version/fix/one click deploy to https://github.com/jorilallo/celery-flower-heroku
+PS: This is a working version and one click deploy of https://github.com/jorilallo/celery-flower-heroku
